@@ -1,0 +1,13 @@
+package jass.unit;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+public class Main {
+    private static final Logger logger =
+            LoggerFactory.getLogger(Main.class);
+    public static void main(String[] args) {
+        logger.info("Application started");
+        logger.warn("Warning message");
+        logger.error("Error message");
+        System.out.println("Hello");
+    }
+}

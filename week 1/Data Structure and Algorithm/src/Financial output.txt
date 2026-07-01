@@ -1,0 +1,8 @@
+Starting Amount: ₹10000.00
+Annual Growth Rate: 10%
+Year 1: ₹11000.00
+Year 2: ₹12100.00
+Year 3: ₹13310.00
+Year 4: ₹14641.00
+Year 5: ₹16105.10
+Final Forecasted Value after 5 years: ₹16105.10
